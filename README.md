@@ -9,10 +9,10 @@
 ### 效果图如下
 
 主界面，2个入口而已</br>
-![](img-storage/img (0).png)
+![](img-storage/img1.jpg)
 </br>
 网络图片加载界面</br>
-![](img-storage/img (1).png)
+![](img-storage/img2.jpg)
 </br>
 本地图片加载界面，可加载指定目录下的多个图片目录</br>
-![](img-storage/img (2).png)![](img-storage/img (3).png)![](img-storage/img (4).png)
+![](img-storage/img3.jpg)![](img-storage/img4.jpg)![](img-storage/img5.jpg)
